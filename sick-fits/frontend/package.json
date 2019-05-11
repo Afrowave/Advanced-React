@@ -17,7 +17,7 @@
     "apollo-boost": "^0.1.16",
     "apollo-client": "^2.4.2",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-plugin-styled-components": "^1.7.1",
+    "babel-plugin-styled-components": "^1.10.0",
     "date-fns": "^2.0.0-alpha.7",
     "downshift": "^2.2.3",
     "enzyme": "^3.6.0",
@@ -28,14 +28,15 @@
     "next": "^7.0.0",
     "next-with-apollo": "^3.1.3",
     "nprogress": "^0.2.0",
+    "prettier": "1.16.4",
     "prop-types": "^15.6.2",
-    "react": "^16.5.2",
+    "react": "^16.8.6",
     "react-adopt": "^0.6.0",
     "react-apollo": "^2.2.1",
-    "react-dom": "^16.5.2",
+    "react-dom": "^16.8.6",
     "react-stripe-checkout": "^2.6.3",
     "react-transition-group": "^2.5.0",
-    "styled-components": "^3.4.9",
+    "styled-components": "^4.2.0",
     "waait": "^1.0.2"
   },
   "devDependencies": {
@@ -72,7 +73,8 @@
             {
               "ssr": true,
               "displayName": true
-            }
+            },
+            "babel-plugin-styled-components"
           ]
         ]
       },

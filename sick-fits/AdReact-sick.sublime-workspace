@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"Component\twarning"
+			],
+			[
+				"rcc",
+				"rcc\tReact: class component"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"transi",
+				"transition-duration\tproperty"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"rc",
+				"rcc\tReact: class component"
+			],
+			[
+				"external",
+				"external.module.css"
+			],
+			[
+				"rf",
+				"rfc\tFunctional Component"
+			],
+			[
+				"r",
+				"rim\tImport"
+			],
+			[
+				"st",
+				"styles.js"
+			],
+			[
+				"afr",
+				"afro-orange"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"af",
+				"afro-brown"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"li",
+				"live"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"Inter",
+				"PositiveIntegerField\tclass"
+			],
+			[
+				"dar",
+				"dark-green"
+			],
+			[
+				"da",
+				"dark-green"
+			],
+			[
+				"ao",
+				"afro-green"
+			],
+			[
+				"purple",
+				"mid-purple"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Te",
+				"TextField\tclass"
+			],
+			[
+				"funtion",
+				"function"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function\t? "
+			],
+			[
+				"twi",
+				"twitUrl\tstr "
+			],
+			[
+				"fi",
+				"figure\t<figure>"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"form-inline"
+			],
+			[
+				"fot-",
+				"font-size"
+			],
+			[
+				"ins",
+				"inst-hover"
+			],
+			[
+				"instagram-des",
+				"instagram-design.svg"
+			],
+			[
+				"afro",
+				"afro-brown"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"mid",
+				"mid-orange"
+			],
+			[
+				"mid-",
+				"mid-brown"
+			],
+			[
+				"de",
+				"design"
+			],
+			[
+				"c",
+				"complete"
+			],
+			[
+				"h",
+				"hitcount/views.py"
+			],
+			[
+				"artic",
+				"article\tTag"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"copy",
+				"copyright-rights"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"light",
+				"light-brown"
+			],
+			[
+				"pro",
+				"project_articles"
+			],
+			[
+				"Mo",
+				"MotionListView\tclass"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"objec",
+				"object\tTag"
+			],
+			[
+				"la",
+				"label\t<label>"
+			],
+			[
+				"afro-b",
+				"afro-brown"
+			],
+			[
+				"lin",
+				"linked-share"
+			],
+			[
+				"ar",
+				"article\t<article>"
+			],
+			[
+				"afro-",
+				"afro-orange"
+			],
+			[
+				"A",
+				"AttributeError\tclass"
+			],
+			[
+				"M",
+				"ModelAdmin"
+			],
+			[
+				"clas",
+				"class\tkeyword"
+			],
+			[
+				"ta",
+				"tags"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"Projec",
+				"ProjectAdmin\tclass"
+			],
+			[
+				"re",
+				"register\tfunction"
+			],
+			[
+				"adm",
+				"admin\tmodule"
+			],
+			[
+				"Model",
+				"ModelAdmin\tclass"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"sec",
+				"second_project"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"Sear",
+				"SearchForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"from",
+				"forms"
+			],
+			[
+				"pst",
+				"post-specs\t(search.html)"
+			],
+			[
+				"sear",
+				"search_list"
+			],
+			[
+				"post",
+				"post-specs\t(search.html)"
+			],
+			[
+				"po",
+				"post-pic\t(search.html)"
+			],
+			[
+				"pso",
+				"post-details\t(search.html)"
+			],
+			[
+				"search",
+				"search_list\t(search.html)"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ser",
+				"search\t(urls.py)"
+			],
+			[
+				"nav",
+				"nav-2"
+			],
+			[
+				"__",
+				"__str__\t(test_models.py)"
+			],
+			[
+				"ckedi",
+				"ckeditor\tmodule"
+			],
+			[
+				"Rich",
+				"RichTextField"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"sou",
+				"soundcloud.com"
+			],
+			[
+				"pen",
+				"pad-pen\t(afroshok.html)"
+			],
+			[
+				"sho",
+				"shok-design\t(afroshok.html)"
+			],
+			[
+				"desig",
+				"design\t(afroshok.html)"
+			],
+			[
+				"wor",
+				"work-text"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"sup",
+				"superHead\t(afroshok.html)"
+			],
+			[
+				"now",
+				"nowrap"
+			],
+			[
+				"deve",
+				"develop\t(afroshok.html)"
+			],
+			[
+				"res",
+				"reticulated_giraffes.jpg"
+			],
+			[
+				"header",
+				"header-nav\t(base.html)"
+			],
+			[
+				"retr",
+				"reticulated_giraffes.jpg"
+			],
+			[
+				"article",
+				"article-details\t(africa.html)"
+			],
+			[
+				"art",
+				"article-details\t(africa.html)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"read",
+				"read-more\t(africa.html)"
+			],
+			[
+				"fil",
+				"filt-icon"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"aside",
+				"aside-nav\t(africa.html)"
+			],
+			[
+				"tw",
+				"twit-share\t(africa.html)"
+			],
+			[
+				"righ",
+				"right-headings\t(africa.html)"
+			],
+			[
+				"left",
+				"left-headings\t(africa.html)"
+			],
+			[
+				"brand",
+				"brand-brown\t(global.styl)"
+			],
+			[
+				"afro-pur",
+				"afro-purple\t(global.styl)"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"clei",
+				"client-work\t(clients.html)"
+			],
+			[
+				"client",
+				"client-profile\t(clients.html)"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"no",
+				"nowrap\t(global.styl)"
+			],
+			[
+				"copyr-",
+				"copyright-rights\t(base.html)"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"spa",
+				"space-around\t(hd-desk.styl)"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"filt",
+				"filt-icon\t(base.html)"
+			],
+			[
+				"body",
+				"body-white\t(base.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "  …/Advanced-React-Starter-Files/sick-fits     master    2    ",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  …/Advanced-React-Starter-Files/sick-fits     master    2    ",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"t",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"review",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"JavaScript Enhancements Flow: Next Error"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"send",
+				"SendREPL: Choose REPL Program"
+			],
+			[
+				"Snippet: i",
+				"Snippet: ipdb"
+			],
+			[
+				"Snippet: ip",
+				"Snippet: ipdb"
+			],
+			[
+				"",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Django:",
+				"Django: Boilerplate"
+			],
+			[
+				"Run ",
+				"Django: Run Server"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"Python",
+				"Set Syntax: Python3"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitG",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: Simple HTML5 Boilerplate"
+			]
+		],
+		"width": 680.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"touch funtional_tests/__init__.py",
+			"Django Run Server",
+			"Run Server",
+			"Django: Run Server",
+			"-V",
+			"python -v",
+			"clear",
+			"python 3",
+			"print(sys.version)",
+			"import sys",
+			"sublime.version()",
+			"PackageResourceViewer",
+			"PackageResourceViewer: Extract Package",
+			"prv",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages"
+	],
+	"file_history":
+	[
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages/_app.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Header.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Meta.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Page.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Nav.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages/sell.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages/index.js",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/package.json",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/README.md",
+		"/Users/jimmygitonga/Documents/Nyayo Estate/Mast Task Force/Court 288A MAST Contributions.txt",
+		"/Users/jimmygitonga/Documents/Nyayo Estate/Mast Task Force/Court 288A MAST Contributions.csv",
+		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/React-For-Beginners-Starter-Files/catch-fish.sublime-project",
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Cobalt2/Cobalt2.sublime-theme",
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Packages/Theme - Cobalt2/cobalt2.tmTheme",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/config/settings/production.py",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/bills/models.py",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/static/dev/scss/dokeza.scss",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/static/dev/js/dokeza.js",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/templates/_layouts/base.html",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/templates/_partials/meta.html",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/static/ckeditor/galleriffic/css/basic.css",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/static/css/annotator.css",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/dokeza/static/css/annotator-min.css",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/.env",
+		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/requirements/base.txt",
+		"/Users/jimmygitonga/devzone/tests/redux-learning/reducer.test.js",
+		"/Users/jimmygitonga/devzone/tests/redux-learning/package.json",
+		"/Users/jimmygitonga/.zshrc",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/styles.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/Loader/styles.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/App.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/styles/globals.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/Button.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/package.json",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/Main.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/index.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/external.styl",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/external.module.css",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/App.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/external.css",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/components/App.css",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/README.md",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/Loader/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/Loader/index.jd",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/ListItem/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/story/selectors.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/styles/globals.js",
+		"/Users/jimmygitonga/devzone/tests/styled-test/src/.env",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/package.json",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/utils/getArticleLink.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/utils/getSiteHostname.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/story/reducer.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/story/actions.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/List/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/reducer.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/services/hackerNewsApi.js",
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/services/Api.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/ListItem/styles.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/.env",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/List/styles.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/style.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/app/reducer.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/styles/mediaQueries.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/styles/palette.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/app/actions.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/store/middleware.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/stores/middleware.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/stores/app/actions.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/stores/reducer.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/stores/index.js",
+		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/services",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/global.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/containers/AContainer.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Homecontent.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Afroshok.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/NotFound.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/header.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Anchorimage.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Home.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Homecards.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/containers/HContainer.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/navigation/Hbuttons.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/navigation/Dbuttons.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Secondnavigation.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/About.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Container.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/navigation/Cbuttons.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Aboutcontent.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Header.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/navigation/Afroshok.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Blog.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Code.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Design.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/navigation/Abuttons.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/main.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/about.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Router.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/public/index.html",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Articles.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/index.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/package.json",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/App.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/App.js",
+		"/Users/jimmygitonga/devzone/afroshoka/afroshok/templates/_about/afroshok.html",
+		"/Users/jimmygitonga/devzone/afroshoka/afroshok/templates/_about/about.html",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Content.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/tagline.js",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/build/components/tagline-min.js",
+		"/Users/jimmygitonga/devzone/afroshoka/afroshok/templates/afroblog/article_detail.html",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/components/Footer.js",
+		"/Users/jimmygitonga/devzone/afroshoka/afroshok/templates/base.html",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/build/css/monokai-sublime-min.css",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/main.css",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/laptop-desk.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/home.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/tablet-landscape.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/tablet-potrait.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/mobile-potrait.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/design.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/code.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/blog.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/hd-desk.styl",
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/mobile-landscape.styl"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 168.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Home",
+			"background",
+			"background color",
+			"color",
+			"coor",
+			"title_bar",
+			"window",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"font_face": "Droid Sans Mono Nerd Font Complete",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 8,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 1.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"font_face": "Droid Sans Mono Nerd Font Complete",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 8,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 1.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.667431223291,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 318.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 138.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 528.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "AdReact-sick.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/devzone/clients/sunesiskenya/sunesis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
