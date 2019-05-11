@@ -2,13 +2,15 @@
 
 # Advanced React & GraphQL
 
-These are the starter files and stepped solutions for the [Advanced React & GraphQL](https://AdvancedReact.com) course by [Wes Bos](https://WesBos.com/).
+This repository is my learning of the [Advanced React & GraphQL](https://AdvancedReact.com) course by [Wes Bos](https://WesBos.com/).
+Changes have been made in line with the latest advances and updates to the dependencies to keep up to date as much as possible.
 
 ## Getting Help
 
-The best place to get help is in the #advanced-react slack room - there is a link in your course dashboard.
+The best place to get help is in the link above of the course website.
 
 ## FAQ
 
-**Q:** Which Extensions for VS Code is Wes using?  
-**A:** All my extensions are listed on [my dotfiles repo](https://github.com/wesbos/dotfiles), but specifically this course uses [ESLint](https://github.com/Microsoft/vscode-eslint) and [Prettier](https://github.com/prettier/prettier-vscode).
+**Note:** Unlike Wes Bos, I use Sublime Text with plugins to get it to work as close as to Wes' Visual Code with his extensions are listed on [his dotfiles repo](https://github.com/wesbos/dotfiles).
+
+I use [ESLint for Sublime Text](https://packagecontrol.io/packages/ESLint) and [JsPrettier](https://packagecontrol.io/packages/JsPrettier) for JavaScript formatting.
