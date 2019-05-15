@@ -1,8 +1,12 @@
+type Cow {
+	name: String!
+	species: String
+}
+
 type Mutation {
-	hi: String!
+	createCow(name: String!, species: String): Cow
 }
 
 type Query {
-	id: ID!
-	name: String!
+	cows: [Cow]!
 }
