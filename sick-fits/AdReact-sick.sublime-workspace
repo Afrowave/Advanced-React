@@ -520,20 +520,28 @@
 	"buffers":
 	[
 		{
-			"contents": "  …/Advanced-React-Starter-Files/sick-fits     master    2    ",
+			"file": "backend/src/schema.graphql",
 			"settings":
 			{
-				"buffer_size": 72,
+				"buffer_size": 411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "  …/sick-fits     learn      frontend                        \n  …/sick-fits     learn      frontend                        \n  …/frontend     learn      yarn run dev                     \nyarn run v1.16.0                                                      \n$ next -p 7777                                                        \n                                                                      \nCompiling                                                             \n                                                                      \n✔ success server compiled in 1m 6s 297ms                              \n✔ success client compiled in 1m 294ms                                 \n                                                                      \n                                                                      \n DONE  Compiled successfully in 86922ms                     4:58:51 PM\n                                                                      \n> Ready on http://localhost:7777                                      \n> Building page: /                                                    \n                                                                      \n                                                                      \n WAIT  Compiling...                                         4:59:39 PM\n                                                                      \n✔ success client compiled in 4s 846ms                                 \n                                                                      \n                                                                      \n DONE  Compiled successfully in 5692ms                      4:59:45 PM\n                                                                      \n✔ success server compiled in 6s 785ms                                 \n",
+			"settings":
+			{
+				"buffer_size": 1846,
 				"line_ending": "Unix",
 				"name": "Login Shell",
 				"scratch": true
 			}
 		},
 		{
-			"contents": "  …/Advanced-React-Starter-Files/sick-fits     master    2    ",
+			"contents": "  …/sick-fits     learn      backend                         \n  …/sick-fits     learn      backend                         \n  …/backend     learn      yarn run dev                      \nyarn run v1.16.0                                                      \n$ nodemon -e js,graphql -x node --inspect src/index.js                \n[nodemon] 1.18.9\n[nodemon] to restart at any time, enter `rs`\n[nodemon] watching: *.*\n[nodemon] starting `node --inspect src/index.js`\nDebugger listening on ws://127.0.0.1:9229/6e4f9cfe-cb04-4c0d-aebf-e4bb​‌​\nf8015cec\nFor help, see: https://nodejs.org/en/docs/inspector\nType \"Node\" is missing a \"resolveType\" resolver. Pass false into \"reso​‌​\nlverValidationOptions.requireResolversForResolveType\" to disable this ​‌​\nwarning.\nServer is now running on port\n                        http://localhost:4444\n",
 			"settings":
 			{
-				"buffer_size": 72,
+				"buffer_size": 858,
 				"line_ending": "Unix",
 				"name": "Login Shell",
 				"scratch": true
@@ -552,15 +560,31 @@
 		"selected_items":
 		[
 			[
+				"termin",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in View"
+			],
+			[
 				"t",
 				"Terminus: Open Default Shell in View"
 			],
 			[
 				"term",
-				"Terminus: Open Default Shell in View"
-			],
-			[
-				"termin",
 				"Terminus: Open Default Shell in View"
 			],
 			[
@@ -574,10 +598,6 @@
 			[
 				"re",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"ins",
@@ -618,14 +638,6 @@
 			[
 				"list ",
 				"Package Control: List Packages"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"ter",
-				"Terminus: Open Default Shell in View"
 			],
 			[
 				"terminus",
@@ -751,13 +763,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
-		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend",
-		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components",
-		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages"
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits",
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits/backend",
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits/backend/src",
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits/frontend",
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits/frontend/pages",
+		"/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits/frontend/static"
 	],
 	"file_history":
 	[
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/jimmygitonga/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/jimmygitonga/.zshrc",
 		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/pages/_app.js",
 		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Header.js",
 		"/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits/frontend/components/Meta.js",
@@ -785,7 +802,6 @@
 		"/Users/jimmygitonga/BitTorrent Sync/RA/Work/Mzalendo/20161019-WWEB-Dokeza/03-Production-Development/JG/dokeza/requirements/base.txt",
 		"/Users/jimmygitonga/devzone/tests/redux-learning/reducer.test.js",
 		"/Users/jimmygitonga/devzone/tests/redux-learning/package.json",
-		"/Users/jimmygitonga/.zshrc",
 		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/styles.js",
 		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/Loader/styles.js",
 		"/Users/jimmygitonga/devzone/tests/hacker-news-clone/src/components/App/App.js",
@@ -883,13 +899,11 @@
 		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/mobile-potrait.styl",
 		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/design.styl",
 		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/code.styl",
-		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/blog.styl",
-		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/hd-desk.styl",
-		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/mobile-landscape.styl"
+		"/Users/jimmygitonga/devzone/afro_react/frontend/src/styles/blog.styl"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -928,86 +942,33 @@
 	"groups":
 	[
 		{
-			"sheets":
-			[
-			]
-		},
-		{
-			"sheets":
-			[
-			]
-		},
-		{
 			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"semi_transient": false,
+					"file": "backend/src/schema.graphql",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 72,
+						"buffer_size": 411,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								72
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"__vi_external_disable": true,
-							"auto_complete": false,
-							"auto_complete_commit_on_tab": false,
-							"bracket_highlighter.clone_locations":
-							{
-							},
-							"bracket_highlighter.ignore": true,
-							"caret_style": "blink",
-							"color_scheme": "Terminus.sublime-color-scheme",
-							"draw_centered": false,
-							"draw_indent_guides": false,
-							"draw_white_space": "none",
-							"font_face": "Droid Sans Mono Nerd Font Complete",
-							"git_gutter_is_enabled": false,
-							"gutter": false,
-							"highlight_line": false,
-							"is_widget": true,
-							"scroll_past_end": true,
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "/Users/jimmygitonga/devzone/Learning/Advanced-React",
+							"markdonw_live_preview_last_run": 1560959516.44,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"terminus.highlight_counter": 8,
-							"terminus_view": true,
-							"terminus_view.args":
-							{
-								"auto_close": true,
-								"cmd":
-								[
-									"/bin/zsh",
-									"-i",
-									"-l"
-								],
-								"cwd": "/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
-								"env":
-								{
-									"LANG": "en_US.UTF-8",
-									"TERM": "linux",
-									"TERMINUS_SUBLIME": "1",
-									"TERM_PROGRAM": "Terminus-Sublime"
-								},
-								"panel_name": null,
-								"tag": null,
-								"title": "Login Shell"
-							},
-							"terminus_view.key.ctrl+k": true,
-							"terminus_view.key.ctrl+p": true,
-							"terminus_view.natural_keyboard": true,
-							"terminus_view.panel_name": null,
-							"terminus_view.tag": null,
-							"terminus_view.viewport_y": 1.0,
-							"word_wrap": false
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1019,6 +980,11 @@
 			]
 		},
 		{
+			"sheets":
+			[
+			]
+		},
+		{
 			"selected": 0,
 			"sheets":
 			[
@@ -1027,15 +993,94 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 72,
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"font_face": "Droid Sans Mono Nerd Font Complete",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 2476,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": null
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 484.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 532.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 858,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								72
+								858,
+								858
 							]
 						],
 						"settings":
@@ -1049,6 +1094,7 @@
 							"bracket_highlighter.ignore": true,
 							"caret_style": "blink",
 							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits",
 							"draw_centered": false,
 							"draw_indent_guides": false,
 							"draw_white_space": "none",
@@ -1059,7 +1105,7 @@
 							"is_widget": true,
 							"scroll_past_end": true,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"terminus.highlight_counter": 8,
+							"terminus.highlight_counter": 51,
 							"terminus_view": true,
 							"terminus_view.args":
 							{
@@ -1070,7 +1116,8 @@
 									"-i",
 									"-l"
 								],
-								"cwd": "/Users/jimmygitonga/devzone/Learning/WesBos-ReactJS/Advanced-React-Starter-Files/sick-fits",
+								"config_name": "Login Shell",
+								"cwd": "/Users/jimmygitonga/devzone/Learning/Advanced-React/sick-fits",
 								"env":
 								{
 									"LANG": "en_US.UTF-8",
@@ -1080,18 +1127,18 @@
 								},
 								"panel_name": null,
 								"tag": null,
-								"title": "Login Shell"
+								"title": null
 							},
 							"terminus_view.key.ctrl+k": true,
 							"terminus_view.key.ctrl+p": true,
 							"terminus_view.natural_keyboard": true,
 							"terminus_view.panel_name": null,
 							"terminus_view.tag": null,
-							"terminus_view.viewport_y": 1.0,
+							"terminus_view.viewport_y": 64.0,
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 64.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1102,7 +1149,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -1146,7 +1193,7 @@
 		"rows":
 		[
 			0.0,
-			0.667431223291,
+			0.654440447295,
 			1.0
 		]
 	},
@@ -1187,7 +1234,7 @@
 	"project": "AdReact-sick.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1221,7 +1268,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 2,
+	"selected_group": 0,
 	"settings":
 	{
 	},
